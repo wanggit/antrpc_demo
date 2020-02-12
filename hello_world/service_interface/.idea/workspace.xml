@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17934398-2c9d-44f4-8406-9d82c3202315" name="Default Changelist" comment="" />
+    <list default="true" id="17934398-2c9d-44f4-8406-9d82c3202315" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../log_report_kafka/log_report_kafka_api_1/log_report_kafka_api_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_consumer/src/main/java/io/github/wanggit/demo/service_consumer/ServiceConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../service_consumer/src/main/java/io/github/wanggit/demo/service_consumer/ServiceConsumerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service_provider/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service_provider/src/main/java/io/github/wanggit/demo/service_provider/ServiceProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../service_provider/src/main/java/io/github/wanggit/demo/service_provider/ServiceProviderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rate_limit/rate_limit_api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rate_limit/rate_limit_api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rate_limit/rate_limit_api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rate_limit/rate_limit_api/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -85,6 +93,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../service_provider" />
@@ -118,17 +127,17 @@
       <updated>1581130976976</updated>
       <workItem from="1581130979912" duration="1055000" />
       <workItem from="1581132986280" duration="243000" />
+      <workItem from="1581475443139" duration="488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1298000" />
+    <option name="totallyTimeSpent" value="1786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -163,10 +172,11 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/service_interface.iml" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -176,9 +186,6 @@
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service_interface.iml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
