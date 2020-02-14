@@ -1,6 +1,8 @@
 package io.github.wanggit.antrpc.demo.log_report_kafka_service_1.web;
 
+import io.github.wanggit.antrpc.commons.annotations.LinkMonitor;
 import io.github.wanggit.antrpc.commons.annotations.RpcAutowired;
+import io.github.wanggit.antrpc.commons.bean.SerialNumberThreadLocal;
 import io.github.wanggit.antrpc.demo.api.HelloService;
 import io.github.wanggit.antrpc.demo.api.LogReportService;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -19,11 +21,14 @@ public class DemoController {
     private LogReportService logReportService;
 
     @GetMapping("sayHello")
+    @LinkMonitor
     public String sayHello(@RequestParam String name){
-        return helloService.sayHello(name);
+        String result = helloService.sayHello(name);
+        return result;
     }
 
     @GetMapping("report")
+    @LinkMonitor
     public String report(@RequestParam String content){
         return logReportService.report(content);
     }
