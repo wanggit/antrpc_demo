@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6d70a7b4-830b-433a-83a4-5a18fcba75cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../log_report_kafka_api_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../log_report_kafka_api_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../log_report_kafka_service_1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../log_report_kafka_service_1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../log_report_kafka_service_1/src/main/java/io/github/wanggit/antrpc/demo/log_report_kafka_service_1/web/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../log_report_kafka_service_1/src/main/java/io/github/wanggit/antrpc/demo/log_report_kafka_service_1/web/DemoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../log_report_kafka_service_2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../log_report_kafka_service_2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../log_report_kafka_service_2/src/main/java/io/github/wanggit/antrpc/demo/log_report_kafka_service_2/service/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../log_report_kafka_service_2/src/main/java/io/github/wanggit/antrpc/demo/log_report_kafka_service_2/service/HelloServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../log_report_kafka_service_provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../log_report_kafka_service_provider/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
