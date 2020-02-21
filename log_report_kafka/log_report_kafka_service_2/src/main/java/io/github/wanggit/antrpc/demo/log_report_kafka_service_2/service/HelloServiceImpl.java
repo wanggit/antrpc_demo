@@ -4,7 +4,6 @@ import io.github.wanggit.antrpc.commons.annotations.LinkMonitor;
 import io.github.wanggit.antrpc.commons.annotations.RpcAutowired;
 import io.github.wanggit.antrpc.commons.annotations.RpcMethod;
 import io.github.wanggit.antrpc.commons.annotations.RpcService;
-import io.github.wanggit.antrpc.commons.bean.SerialNumberThreadLocal;
 import io.github.wanggit.antrpc.demo.api.HelloService;
 import io.github.wanggit.antrpc.demo.api.LogReportService;
 

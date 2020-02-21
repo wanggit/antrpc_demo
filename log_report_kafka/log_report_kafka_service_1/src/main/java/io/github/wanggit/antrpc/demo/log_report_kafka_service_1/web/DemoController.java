@@ -2,7 +2,6 @@ package io.github.wanggit.antrpc.demo.log_report_kafka_service_1.web;
 
 import io.github.wanggit.antrpc.commons.annotations.LinkMonitor;
 import io.github.wanggit.antrpc.commons.annotations.RpcAutowired;
-import io.github.wanggit.antrpc.commons.bean.SerialNumberThreadLocal;
 import io.github.wanggit.antrpc.demo.api.HelloService;
 import io.github.wanggit.antrpc.demo.api.LogReportService;
 import org.springframework.web.bind.annotation.GetMapping;
